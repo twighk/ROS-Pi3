@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/rosboost_cfg
+
+Name: rosboost_cfg
+Description: Description of rosboost_cfg
+Version: 1.12.7
+Cflags: 
+Libs: -L/opt/ros_catkin_ws/devel_isolated/rosboost_cfg/lib 
+Requires: 

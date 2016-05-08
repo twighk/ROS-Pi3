@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/rosbuild
+
+Name: rosbuild
+Description: Description of rosbuild
+Version: 1.12.7
+Cflags: 
+Libs: -L/opt/ros_catkin_ws/devel_isolated/rosbuild/lib 
+Requires: 

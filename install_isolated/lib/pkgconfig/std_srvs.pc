@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/install_isolated
+
+Name: std_srvs
+Description: Description of std_srvs
+Version: 1.11.2
+Cflags: -I/opt/ros_catkin_ws/install_isolated/include
+Libs: -L/opt/ros_catkin_ws/install_isolated/lib 
+Requires: message_runtime

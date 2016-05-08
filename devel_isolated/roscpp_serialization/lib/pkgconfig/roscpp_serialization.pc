@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/roscpp_serialization
+
+Name: roscpp_serialization
+Description: Description of roscpp_serialization
+Version: 0.5.7
+Cflags: -I/opt/ros_catkin_ws/src/roscpp_core/roscpp_serialization/include
+Libs: -L/opt/ros_catkin_ws/devel_isolated/roscpp_serialization/lib -lroscpp_serialization
+Requires: cpp_common roscpp_traits rostime

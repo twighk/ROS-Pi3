@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/topic_tools
+
+Name: topic_tools
+Description: Description of topic_tools
+Version: 1.11.19
+Cflags: -I/opt/ros_catkin_ws/devel_isolated/topic_tools/include -I/opt/ros_catkin_ws/src/ros_comm/topic_tools/include
+Libs: -L/opt/ros_catkin_ws/devel_isolated/topic_tools/lib -ltopic_tools
+Requires: message_runtime rosconsole roscpp std_msgs xmlrpcpp

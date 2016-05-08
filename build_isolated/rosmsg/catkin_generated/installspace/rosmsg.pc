@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/install_isolated
+
+Name: rosmsg
+Description: Description of rosmsg
+Version: 1.11.19
+Cflags: 
+Libs: -L/opt/ros_catkin_ws/install_isolated/lib 
+Requires: 

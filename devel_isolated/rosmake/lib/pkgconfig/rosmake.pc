@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/rosmake
+
+Name: rosmake
+Description: Description of rosmake
+Version: 1.12.7
+Cflags: 
+Libs: -L/opt/ros_catkin_ws/devel_isolated/rosmake/lib 
+Requires: 

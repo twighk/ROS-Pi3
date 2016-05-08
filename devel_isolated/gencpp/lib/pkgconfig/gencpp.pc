@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/gencpp
+
+Name: gencpp
+Description: Description of gencpp
+Version: 0.5.4
+Cflags: 
+Libs: -L/opt/ros_catkin_ws/devel_isolated/gencpp/lib 
+Requires: genmsg

@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/rospy
+
+Name: rospy
+Description: Description of rospy
+Version: 1.11.19
+Cflags: 
+Libs: -L/opt/ros_catkin_ws/devel_isolated/rospy/lib 
+Requires: 

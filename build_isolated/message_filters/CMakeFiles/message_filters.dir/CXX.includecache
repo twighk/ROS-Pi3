@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/opt/ros_catkin_ws/install_isolated/include/ros/macros.h
+
+/opt/ros_catkin_ws/src/ros_comm/message_filters/include/message_filters/connection.h
+boost/function.hpp
+-
+boost/signals2/connection.hpp
+-
+macros.h
+/opt/ros_catkin_ws/src/ros_comm/message_filters/include/message_filters/macros.h
+
+/opt/ros_catkin_ws/src/ros_comm/message_filters/include/message_filters/macros.h
+ros/macros.h
+-
+
+/opt/ros_catkin_ws/src/ros_comm/message_filters/src/connection.cpp
+message_filters/connection.h
+/opt/ros_catkin_ws/src/ros_comm/message_filters/src/message_filters/connection.h
+

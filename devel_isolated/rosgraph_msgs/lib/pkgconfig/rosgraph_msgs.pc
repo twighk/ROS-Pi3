@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/rosgraph_msgs
+
+Name: rosgraph_msgs
+Description: Description of rosgraph_msgs
+Version: 1.11.2
+Cflags: -I/opt/ros_catkin_ws/devel_isolated/rosgraph_msgs/include
+Libs: -L/opt/ros_catkin_ws/devel_isolated/rosgraph_msgs/lib 
+Requires: message_runtime std_msgs

@@ -1,0 +1,14 @@
+/opt/ros_catkin_ws/install_isolated/_setup_util.py
+/opt/ros_catkin_ws/install_isolated/env.sh
+/opt/ros_catkin_ws/install_isolated/setup.bash
+/opt/ros_catkin_ws/install_isolated/setup.sh
+/opt/ros_catkin_ws/install_isolated/setup.zsh
+/opt/ros_catkin_ws/install_isolated/.rosinstall
+/opt/ros_catkin_ws/install_isolated/lib/pkgconfig/rospy.pc
+/opt/ros_catkin_ws/install_isolated/share/rospy/cmake/rospyConfig.cmake
+/opt/ros_catkin_ws/install_isolated/share/rospy/cmake/rospyConfig-version.cmake
+/opt/ros_catkin_ws/install_isolated/share/rospy/package.xml
+/opt/ros_catkin_ws/install_isolated/share/rospy/rosbuild/rospy.cmake
+/opt/ros_catkin_ws/install_isolated/share/rospy/rosbuild/scripts/genmsg_py.py
+/opt/ros_catkin_ws/install_isolated/share/rospy/rosbuild/scripts/gensrv_py.py
+/opt/ros_catkin_ws/install_isolated/share/rospy/rosbuild/scripts/genutil.py

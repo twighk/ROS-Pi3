@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/install_isolated
+
+Name: genlisp
+Description: Description of genlisp
+Version: 0.4.15
+Cflags: 
+Libs: -L/opt/ros_catkin_ws/install_isolated/lib 
+Requires: genmsg

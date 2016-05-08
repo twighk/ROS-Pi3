@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/std_msgs
+
+Name: std_msgs
+Description: Description of std_msgs
+Version: 0.5.10
+Cflags: -I/opt/ros_catkin_ws/devel_isolated/std_msgs/include -I/opt/ros_catkin_ws/src/std_msgs/include
+Libs: -L/opt/ros_catkin_ws/devel_isolated/std_msgs/lib 
+Requires: message_runtime

@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/message_runtime
+
+Name: message_runtime
+Description: Description of message_runtime
+Version: 0.4.12
+Cflags: 
+Libs: -L/opt/ros_catkin_ws/devel_isolated/message_runtime/lib 
+Requires: cpp_common roscpp_serialization roscpp_traits rostime

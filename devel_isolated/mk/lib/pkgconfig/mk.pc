@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/mk
+
+Name: mk
+Description: Description of mk
+Version: 1.12.7
+Cflags: 
+Libs: -L/opt/ros_catkin_ws/devel_isolated/mk/lib 
+Requires: 

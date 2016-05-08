@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libroscpp_serialization.so -o /opt/ros_catkin_ws/devel_isolated/roscpp_serialization/lib/libroscpp_serialization.so CMakeFiles/roscpp_serialization.dir/src/serialization.cpp.o  -L/opt/ros_catkin_ws/install_isolated/lib 

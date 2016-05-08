@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/roswtf
+
+Name: roswtf
+Description: Description of roswtf
+Version: 1.11.19
+Cflags: 
+Libs: -L/opt/ros_catkin_ws/devel_isolated/roswtf/lib 
+Requires: 

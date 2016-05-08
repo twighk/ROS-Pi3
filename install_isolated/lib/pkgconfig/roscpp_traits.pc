@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/install_isolated
+
+Name: roscpp_traits
+Description: Description of roscpp_traits
+Version: 0.5.7
+Cflags: -I/opt/ros_catkin_ws/install_isolated/include
+Libs: -L/opt/ros_catkin_ws/install_isolated/lib 
+Requires: cpp_common rostime

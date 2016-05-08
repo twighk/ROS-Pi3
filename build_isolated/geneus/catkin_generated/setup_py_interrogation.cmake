@@ -1,0 +1,6 @@
+set(geneus_SETUP_PY_VERSION "2.2.5")
+set(geneus_SETUP_PY_SCRIPTS "")
+set(geneus_SETUP_PY_PACKAGES "geneus")
+set(geneus_SETUP_PY_PACKAGE_DIRS "src/geneus")
+set(geneus_SETUP_PY_MODULES "")
+set(geneus_SETUP_PY_MODULE_DIRS "")

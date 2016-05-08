@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/message_generation
+
+Name: message_generation
+Description: Description of message_generation
+Version: 0.3.0
+Cflags: 
+Libs: -L/opt/ros_catkin_ws/devel_isolated/message_generation/lib 
+Requires: gencpp geneus genlisp genmsg genpy

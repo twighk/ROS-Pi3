@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/install_isolated
+
+Name: catkin
+Description: Description of catkin
+Version: 0.6.18
+Cflags: 
+Libs: -L/opt/ros_catkin_ws/install_isolated/lib 
+Requires: 

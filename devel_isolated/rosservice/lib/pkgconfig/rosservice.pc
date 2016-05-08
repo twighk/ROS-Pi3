@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/rosservice
+
+Name: rosservice
+Description: Description of rosservice
+Version: 1.11.19
+Cflags: 
+Libs: -L/opt/ros_catkin_ws/devel_isolated/rosservice/lib 
+Requires: 

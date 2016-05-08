@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/rosmaster
+
+Name: rosmaster
+Description: Description of rosmaster
+Version: 1.11.19
+Cflags: 
+Libs: -L/opt/ros_catkin_ws/devel_isolated/rosmaster/lib 
+Requires: 

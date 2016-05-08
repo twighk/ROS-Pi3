@@ -1,0 +1,10 @@
+/opt/ros_catkin_ws/install_isolated/_setup_util.py
+/opt/ros_catkin_ws/install_isolated/env.sh
+/opt/ros_catkin_ws/install_isolated/setup.bash
+/opt/ros_catkin_ws/install_isolated/setup.sh
+/opt/ros_catkin_ws/install_isolated/setup.zsh
+/opt/ros_catkin_ws/install_isolated/.rosinstall
+/opt/ros_catkin_ws/install_isolated/lib/pkgconfig/message_generation.pc
+/opt/ros_catkin_ws/install_isolated/share/message_generation/cmake/message_generationConfig.cmake
+/opt/ros_catkin_ws/install_isolated/share/message_generation/cmake/message_generationConfig-version.cmake
+/opt/ros_catkin_ws/install_isolated/share/message_generation/package.xml

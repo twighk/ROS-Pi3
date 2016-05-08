@@ -1,0 +1,56 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /opt/ros_catkin_ws/build_isolated/rosbag_storage/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_86238/fast"
+/usr/bin/make -f CMakeFiles/cmTC_86238.dir/build.make CMakeFiles/cmTC_86238.dir/build
+make[1]: Entering directory '/opt/ros_catkin_ws/build_isolated/rosbag_storage/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_86238.dir/CheckSymbolExists.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_86238.dir/CheckSymbolExists.c.o   -c /opt/ros_catkin_ws/build_isolated/rosbag_storage/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_86238
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_86238.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_86238.dir/CheckSymbolExists.c.o  -o cmTC_86238 -rdynamic 
+CMakeFiles/cmTC_86238.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0xe): undefined reference to `pthread_create'
+CheckSymbolExists.c:(.text+0x12): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_86238.dir/build.make:97: recipe for target 'cmTC_86238' failed
+make[1]: *** [cmTC_86238] Error 1
+make[1]: Leaving directory '/opt/ros_catkin_ws/build_isolated/rosbag_storage/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_86238/fast' failed
+make: *** [cmTC_86238/fast] Error 2
+
+File /opt/ros_catkin_ws/build_isolated/rosbag_storage/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /opt/ros_catkin_ws/build_isolated/rosbag_storage/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_8bf7c/fast"
+/usr/bin/make -f CMakeFiles/cmTC_8bf7c.dir/build.make CMakeFiles/cmTC_8bf7c.dir/build
+make[1]: Entering directory '/opt/ros_catkin_ws/build_isolated/rosbag_storage/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8bf7c.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_8bf7c.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_8bf7c
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8bf7c.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_8bf7c.dir/CheckFunctionExists.c.o  -o cmTC_8bf7c -rdynamic -lpthreads 
+/usr/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_8bf7c.dir/build.make:97: recipe for target 'cmTC_8bf7c' failed
+make[1]: *** [cmTC_8bf7c] Error 1
+make[1]: Leaving directory '/opt/ros_catkin_ws/build_isolated/rosbag_storage/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_8bf7c/fast' failed
+make: *** [cmTC_8bf7c/fast] Error 2
+
+

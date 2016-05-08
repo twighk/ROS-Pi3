@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/xmlrpcpp
+
+Name: xmlrpcpp
+Description: Description of xmlrpcpp
+Version: 1.11.19
+Cflags: -I/opt/ros_catkin_ws/src/ros_comm/xmlrpcpp/include
+Libs: -L/opt/ros_catkin_ws/devel_isolated/xmlrpcpp/lib -lxmlrpcpp
+Requires: cpp_common

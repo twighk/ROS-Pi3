@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/rosnode
+
+Name: rosnode
+Description: Description of rosnode
+Version: 1.11.19
+Cflags: 
+Libs: -L/opt/ros_catkin_ws/devel_isolated/rosnode/lib 
+Requires: 

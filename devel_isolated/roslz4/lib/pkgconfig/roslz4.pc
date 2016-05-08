@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/roslz4
+
+Name: roslz4
+Description: Description of roslz4
+Version: 1.11.19
+Cflags: -I/opt/ros_catkin_ws/src/ros_comm/roslz4/include -I/usr/include
+Libs: -L/opt/ros_catkin_ws/devel_isolated/roslz4/lib -lroslz4 -l:/usr/lib/arm-linux-gnueabihf/liblz4.so
+Requires: 

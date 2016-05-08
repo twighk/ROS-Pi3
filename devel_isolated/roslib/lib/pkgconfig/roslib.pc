@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/roslib
+
+Name: roslib
+Description: Description of roslib
+Version: 1.12.7
+Cflags: -I/opt/ros_catkin_ws/src/ros/roslib/include
+Libs: -L/opt/ros_catkin_ws/devel_isolated/roslib/lib -lroslib
+Requires: 

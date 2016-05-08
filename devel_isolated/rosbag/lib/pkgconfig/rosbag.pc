@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/rosbag
+
+Name: rosbag
+Description: Description of rosbag
+Version: 1.11.19
+Cflags: -I/opt/ros_catkin_ws/src/ros_comm/rosbag/include
+Libs: -L/opt/ros_catkin_ws/devel_isolated/rosbag/lib -lrosbag
+Requires: rosbag_storage rosconsole roscpp topic_tools xmlrpcpp

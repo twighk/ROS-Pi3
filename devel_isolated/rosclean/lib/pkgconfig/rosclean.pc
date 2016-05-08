@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/rosclean
+
+Name: rosclean
+Description: Description of rosclean
+Version: 1.12.7
+Cflags: 
+Libs: -L/opt/ros_catkin_ws/devel_isolated/rosclean/lib 
+Requires: 

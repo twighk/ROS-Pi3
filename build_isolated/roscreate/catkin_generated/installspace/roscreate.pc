@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/install_isolated
+
+Name: roscreate
+Description: Description of roscreate
+Version: 1.12.7
+Cflags: 
+Libs: -L/opt/ros_catkin_ws/install_isolated/lib 
+Requires: 
