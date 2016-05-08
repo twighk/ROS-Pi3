@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/rqt_image_view
+
+Name: rqt_image_view
+Description: Description of rqt_image_view
+Version: 0.3.13
+Cflags: -I/opt/ros_catkin_ws/src/rqt_common_plugins/rqt_image_view/include -I/opt/ros_catkin_ws/build_isolated/rqt_image_view
+Libs: -L/opt/ros_catkin_ws/devel_isolated/rqt_image_view/lib -lrqt_image_view
+Requires: rqt_gui rqt_gui_cpp image_transport sensor_msgs cv_bridge

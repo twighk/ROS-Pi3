@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libtest_plugins.so -o /opt/ros_catkin_ws/devel_isolated/pluginlib/lib/libtest_plugins.so CMakeFiles/test_plugins.dir/test/test_plugins.cpp.o 

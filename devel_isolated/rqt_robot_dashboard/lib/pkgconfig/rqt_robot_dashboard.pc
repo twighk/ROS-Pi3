@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/rqt_robot_dashboard
+
+Name: rqt_robot_dashboard
+Description: Description of rqt_robot_dashboard
+Version: 0.4.3
+Cflags: 
+Libs: -L/opt/ros_catkin_ws/devel_isolated/rqt_robot_dashboard/lib 
+Requires: 

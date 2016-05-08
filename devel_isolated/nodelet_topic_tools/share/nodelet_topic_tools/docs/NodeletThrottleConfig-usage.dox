@@ -1,0 +1,7 @@
+\subsubsection usage Usage
+\verbatim
+<node name="nodelet_throttle_dynamic_reconfigure" pkg="nodelet_topic_tools" type="nodelet_throttle_dynamic_reconfigure">
+  <param name="update_rate" type="double" value="-1.0" />
+</node>
+\endverbatim
+

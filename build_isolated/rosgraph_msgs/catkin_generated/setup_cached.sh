@@ -8,5 +8,9 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/opt/ros_catkin_ws/devel_isolated/rosgraph_msgs:$CMAKE_PREFIX_PATH"
+export CPATH="/opt/ros_catkin_ws/devel_isolated/rosgraph_msgs/include:$CPATH"
+export LD_LIBRARY_PATH="/opt/ros_catkin_ws/devel_isolated/rosgraph_msgs/lib:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/opt/ros_catkin_ws/devel_isolated/rosgraph_msgs/lib/pkgconfig:$PKG_CONFIG_PATH"
+export PYTHONPATH="/opt/ros_catkin_ws/devel_isolated/rosgraph_msgs/lib/python2.7/dist-packages:$PYTHONPATH"
 export ROSLISP_PACKAGE_DIRECTORIES="/opt/ros_catkin_ws/devel_isolated/rosgraph_msgs/share/common-lisp"
 export ROS_PACKAGE_PATH="/opt/ros_catkin_ws/src/ros_comm_msgs/rosgraph_msgs:$ROS_PACKAGE_PATH"

@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/qt_gui_cpp
+
+Name: qt_gui_cpp
+Description: Description of qt_gui_cpp
+Version: 0.2.30
+Cflags: -I/opt/ros_catkin_ws/src/qt_gui_core/qt_gui_cpp/include -I/usr/include
+Libs: -L/opt/ros_catkin_ws/devel_isolated/qt_gui_cpp/lib -lqt_gui_cpp -l:/usr/lib/arm-linux-gnueabihf/libboost_filesystem.so -l:/usr/lib/arm-linux-gnueabihf/libboost_system.so
+Requires: pluginlib

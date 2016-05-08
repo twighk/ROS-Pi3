@@ -1,0 +1,6 @@
+set(rqt_gui_py_SETUP_PY_VERSION "0.2.14")
+set(rqt_gui_py_SETUP_PY_SCRIPTS "")
+set(rqt_gui_py_SETUP_PY_PACKAGES "rqt_gui_py")
+set(rqt_gui_py_SETUP_PY_PACKAGE_DIRS "src/rqt_gui_py")
+set(rqt_gui_py_SETUP_PY_MODULES "")
+set(rqt_gui_py_SETUP_PY_MODULE_DIRS "")

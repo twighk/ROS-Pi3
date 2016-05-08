@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/diagnostic_aggregator
+
+Name: diagnostic_aggregator
+Description: Description of diagnostic_aggregator
+Version: 1.8.9
+Cflags: -I/opt/ros_catkin_ws/src/diagnostics/diagnostic_aggregator/include
+Libs: -L/opt/ros_catkin_ws/devel_isolated/diagnostic_aggregator/lib -ldiagnostic_aggregator
+Requires: diagnostic_msgs pluginlib roscpp rospy xmlrpcpp bondcpp

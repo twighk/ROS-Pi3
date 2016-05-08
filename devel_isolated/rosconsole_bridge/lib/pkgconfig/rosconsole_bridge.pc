@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/rosconsole_bridge
+
+Name: rosconsole_bridge
+Description: Description of rosconsole_bridge
+Version: 0.4.4
+Cflags: -I/opt/ros_catkin_ws/src/rosconsole_bridge/include -I/usr/include
+Libs: -L/opt/ros_catkin_ws/devel_isolated/rosconsole_bridge/lib -lrosconsole_bridge -l:/usr/lib/arm-linux-gnueabihf/libconsole_bridge.so
+Requires: rosconsole

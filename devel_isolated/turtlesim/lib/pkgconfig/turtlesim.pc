@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/turtlesim
+
+Name: turtlesim
+Description: Description of turtlesim
+Version: 0.6.2
+Cflags: -I/opt/ros_catkin_ws/devel_isolated/turtlesim/include
+Libs: -L/opt/ros_catkin_ws/devel_isolated/turtlesim/lib 
+Requires: geometry_msgs message_runtime std_msgs std_srvs

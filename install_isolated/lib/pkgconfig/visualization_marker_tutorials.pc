@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/install_isolated
+
+Name: visualization_marker_tutorials
+Description: Description of visualization_marker_tutorials
+Version: 0.9.2
+Cflags: 
+Libs: -L/opt/ros_catkin_ws/install_isolated/lib 
+Requires: roscpp visualization_msgs

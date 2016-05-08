@@ -1,0 +1,16 @@
+-I/opt/ros_catkin_ws/devel_isolated/turtlesim/include
+-I/usr/include/qt4
+-I/usr/include/qt4/QtGui
+-I/usr/include/qt4/QtCore
+-I/opt/ros_catkin_ws/src/ros_tutorials/turtlesim/include
+-I/opt/ros_catkin_ws/install_isolated/include
+-I/usr/include
+-I/usr/include
+-DROS_PACKAGE_NAME="turtlesim"
+-DROSCONSOLE_BACKEND_LOG4CXX
+-D$<$<NOT:$<CONFIG:Debug>>:QT_NO_DEBUG>
+-DQT_GUI_LIB
+-DQT_CORE_LIB
+-o
+/opt/ros_catkin_ws/build_isolated/turtlesim/include/turtlesim/moc_turtle_frame.cxx
+/opt/ros_catkin_ws/src/ros_tutorials/turtlesim/include/turtlesim/turtle_frame.h

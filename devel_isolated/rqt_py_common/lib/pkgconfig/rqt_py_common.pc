@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/rqt_py_common
+
+Name: rqt_py_common
+Description: Description of rqt_py_common
+Version: 0.3.13
+Cflags: -I/opt/ros_catkin_ws/devel_isolated/rqt_py_common/include
+Libs: -L/opt/ros_catkin_ws/devel_isolated/rqt_py_common/lib 
+Requires: 

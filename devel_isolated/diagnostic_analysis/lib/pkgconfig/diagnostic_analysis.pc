@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/diagnostic_analysis
+
+Name: diagnostic_analysis
+Description: Description of diagnostic_analysis
+Version: 1.8.9
+Cflags: 
+Libs: -L/opt/ros_catkin_ws/devel_isolated/diagnostic_analysis/lib 
+Requires: diagnostic_msgs rosbag roslib

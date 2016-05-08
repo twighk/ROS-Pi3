@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/install_isolated
+
+Name: interactive_markers
+Description: Description of interactive_markers
+Version: 1.11.1
+Cflags: -I/opt/ros_catkin_ws/install_isolated/include
+Libs: -L/opt/ros_catkin_ws/install_isolated/lib -linteractive_markers
+Requires: roscpp rosconsole rospy tf visualization_msgs

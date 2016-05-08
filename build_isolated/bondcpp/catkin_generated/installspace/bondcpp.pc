@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/install_isolated
+
+Name: bondcpp
+Description: Description of bondcpp
+Version: 1.7.16
+Cflags: -I/opt/ros_catkin_ws/install_isolated/include -I/usr/include
+Libs: -L/opt/ros_catkin_ws/install_isolated/lib -lbondcpp -l:/usr/lib/arm-linux-gnueabihf/libuuid.so
+Requires: bond roscpp smclib

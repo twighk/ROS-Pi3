@@ -1,0 +1,13 @@
+(cl:defpackage map_msgs-msg
+  (:use )
+  (:export
+   "<OCCUPANCYGRIDUPDATE>"
+   "OCCUPANCYGRIDUPDATE"
+   "<PROJECTEDMAPINFO>"
+   "PROJECTEDMAPINFO"
+   "<PROJECTEDMAP>"
+   "PROJECTEDMAP"
+   "<POINTCLOUD2UPDATE>"
+   "POINTCLOUD2UPDATE"
+  ))
+

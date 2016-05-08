@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/librviz_tutorial
+
+Name: librviz_tutorial
+Description: Description of librviz_tutorial
+Version: 0.9.2
+Cflags: 
+Libs: -L/opt/ros_catkin_ws/devel_isolated/librviz_tutorial/lib 
+Requires: 

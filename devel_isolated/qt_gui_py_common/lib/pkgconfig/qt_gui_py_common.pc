@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/qt_gui_py_common
+
+Name: qt_gui_py_common
+Description: Description of qt_gui_py_common
+Version: 0.2.30
+Cflags: 
+Libs: -L/opt/ros_catkin_ws/devel_isolated/qt_gui_py_common/lib 
+Requires: 

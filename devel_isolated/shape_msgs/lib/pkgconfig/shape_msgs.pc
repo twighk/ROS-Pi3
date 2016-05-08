@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/shape_msgs
+
+Name: shape_msgs
+Description: Description of shape_msgs
+Version: 1.12.4
+Cflags: -I/opt/ros_catkin_ws/devel_isolated/shape_msgs/include
+Libs: -L/opt/ros_catkin_ws/devel_isolated/shape_msgs/lib 
+Requires: geometry_msgs message_runtime std_msgs

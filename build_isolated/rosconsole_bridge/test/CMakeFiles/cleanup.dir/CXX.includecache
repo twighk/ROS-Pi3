@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/opt/ros_catkin_ws/src/rosconsole_bridge/include/rosconsole_bridge/bridge.h
+console_bridge/console.h
+-
+
+/opt/ros_catkin_ws/src/rosconsole_bridge/test/cleanup.cpp
+console_bridge/console.h
+-
+rosconsole_bridge/bridge.h
+-
+

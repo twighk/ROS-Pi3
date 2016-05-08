@@ -1,0 +1,56 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /opt/ros_catkin_ws/build_isolated/collada_urdf/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_125bf/fast"
+/usr/bin/make -f CMakeFiles/cmTC_125bf.dir/build.make CMakeFiles/cmTC_125bf.dir/build
+make[1]: Entering directory '/opt/ros_catkin_ws/build_isolated/collada_urdf/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_125bf.dir/CheckSymbolExists.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_125bf.dir/CheckSymbolExists.c.o   -c /opt/ros_catkin_ws/build_isolated/collada_urdf/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_125bf
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_125bf.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_125bf.dir/CheckSymbolExists.c.o  -o cmTC_125bf -rdynamic 
+CMakeFiles/cmTC_125bf.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0xe): undefined reference to `pthread_create'
+CheckSymbolExists.c:(.text+0x12): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_125bf.dir/build.make:97: recipe for target 'cmTC_125bf' failed
+make[1]: *** [cmTC_125bf] Error 1
+make[1]: Leaving directory '/opt/ros_catkin_ws/build_isolated/collada_urdf/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_125bf/fast' failed
+make: *** [cmTC_125bf/fast] Error 2
+
+File /opt/ros_catkin_ws/build_isolated/collada_urdf/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /opt/ros_catkin_ws/build_isolated/collada_urdf/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_7f9aa/fast"
+/usr/bin/make -f CMakeFiles/cmTC_7f9aa.dir/build.make CMakeFiles/cmTC_7f9aa.dir/build
+make[1]: Entering directory '/opt/ros_catkin_ws/build_isolated/collada_urdf/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_7f9aa.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_7f9aa.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_7f9aa
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7f9aa.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_7f9aa.dir/CheckFunctionExists.c.o  -o cmTC_7f9aa -rdynamic -lpthreads 
+/usr/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_7f9aa.dir/build.make:97: recipe for target 'cmTC_7f9aa' failed
+make[1]: *** [cmTC_7f9aa] Error 1
+make[1]: Leaving directory '/opt/ros_catkin_ws/build_isolated/collada_urdf/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_7f9aa/fast' failed
+make: *** [cmTC_7f9aa/fast] Error 2
+
+

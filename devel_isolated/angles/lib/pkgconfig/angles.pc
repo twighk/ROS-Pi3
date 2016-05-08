@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/angles
+
+Name: angles
+Description: Description of angles
+Version: 1.9.10
+Cflags: -I/opt/ros_catkin_ws/src/angles/include
+Libs: -L/opt/ros_catkin_ws/devel_isolated/angles/lib 
+Requires: 

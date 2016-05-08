@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/qt_dotgraph
+
+Name: qt_dotgraph
+Description: Description of qt_dotgraph
+Version: 0.2.30
+Cflags: 
+Libs: -L/opt/ros_catkin_ws/devel_isolated/qt_dotgraph/lib 
+Requires: 

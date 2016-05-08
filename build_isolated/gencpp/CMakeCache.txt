@@ -243,11 +243,22 @@ catkin_DIR:PATH=/opt/ros_catkin_ws/install_isolated/share/catkin/cmake
 //Value Computed by CMake
 gencpp_BINARY_DIR:STATIC=/opt/ros_catkin_ws/build_isolated/gencpp
 
+gencpp_DIR:PATH=
+
 //Value Computed by CMake
 gencpp_SOURCE_DIR:STATIC=/opt/ros_catkin_ws/src/gencpp
 
+//The directory containing a CMake configuration file for geneus.
+geneus_DIR:PATH=/opt/ros_catkin_ws/install_isolated/share/geneus/cmake
+
+//The directory containing a CMake configuration file for genlisp.
+genlisp_DIR:PATH=/opt/ros_catkin_ws/install_isolated/share/genlisp/cmake
+
 //The directory containing a CMake configuration file for genmsg.
 genmsg_DIR:PATH=/opt/ros_catkin_ws/install_isolated/share/genmsg/cmake
+
+//The directory containing a CMake configuration file for genpy.
+genpy_DIR:PATH=/opt/ros_catkin_ws/install_isolated/share/genpy/cmake
 
 //Value Computed by CMake
 gtest_BINARY_DIR:STATIC=/opt/ros_catkin_ws/build_isolated/gencpp/gtest

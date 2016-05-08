@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/urdf_tutorial
+
+Name: urdf_tutorial
+Description: Description of urdf_tutorial
+Version: 0.2.4
+Cflags: 
+Libs: -L/opt/ros_catkin_ws/devel_isolated/urdf_tutorial/lib 
+Requires: 

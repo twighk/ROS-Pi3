@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/smclib
+
+Name: smclib
+Description: Description of smclib
+Version: 1.7.16
+Cflags: -I/opt/ros_catkin_ws/src/bond_core/smclib/include
+Libs: -L/opt/ros_catkin_ws/devel_isolated/smclib/lib 
+Requires: 

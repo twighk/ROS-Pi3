@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/tf2
+
+Name: tf2
+Description: Description of tf2
+Version: 0.5.13
+Cflags: -I/opt/ros_catkin_ws/src/geometry2/tf2/include -I/usr/include
+Libs: -L/opt/ros_catkin_ws/devel_isolated/tf2/lib -ltf2 -l:/usr/lib/arm-linux-gnueabihf/libconsole_bridge.so
+Requires: geometry_msgs tf2_msgs rostime

@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/eigen_stl_containers
+
+Name: eigen_stl_containers
+Description: Description of eigen_stl_containers
+Version: 0.1.4
+Cflags: -I/opt/ros_catkin_ws/src/eigen_stl_containers/include
+Libs: -L/opt/ros_catkin_ws/devel_isolated/eigen_stl_containers/lib 
+Requires: 

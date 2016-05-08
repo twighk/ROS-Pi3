@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/install_isolated
+
+Name: nodelet
+Description: Description of nodelet
+Version: 1.9.4
+Cflags: -I/opt/ros_catkin_ws/install_isolated/include -I/usr/include
+Libs: -L/opt/ros_catkin_ws/install_isolated/lib -lnodeletlib -l:/usr/lib/arm-linux-gnueabihf/libuuid.so
+Requires: bondcpp message_runtime pluginlib rosconsole roscpp std_msgs

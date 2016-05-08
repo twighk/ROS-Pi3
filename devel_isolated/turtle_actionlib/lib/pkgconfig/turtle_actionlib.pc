@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/turtle_actionlib
+
+Name: turtle_actionlib
+Description: Description of turtle_actionlib
+Version: 0.1.8
+Cflags: -I/opt/ros_catkin_ws/devel_isolated/turtle_actionlib/include
+Libs: -L/opt/ros_catkin_ws/devel_isolated/turtle_actionlib/lib 
+Requires: 

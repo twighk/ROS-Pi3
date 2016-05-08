@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/ivcon
+
+Name: ivcon
+Description: Description of ivcon
+Version: 0.1.5
+Cflags: 
+Libs: -L/opt/ros_catkin_ws/devel_isolated/ivcon/lib 
+Requires: 

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/opt/ros_catkin_ws/src/ivcon/src/ivcon.c
+ctype.h
+-
+math.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+colors.inc
+/opt/ros_catkin_ws/src/ivcon/src/colors.inc
+shapes.inc
+/opt/ros_catkin_ws/src/ivcon/src/shapes.inc
+

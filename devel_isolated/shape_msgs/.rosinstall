@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /opt/ros_catkin_ws/devel_isolated/shape_msgs/setup.sh

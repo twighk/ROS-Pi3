@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/install_isolated
+
+Name: diagnostic_common_diagnostics
+Description: Description of diagnostic_common_diagnostics
+Version: 1.8.9
+Cflags: 
+Libs: -L/opt/ros_catkin_ws/install_isolated/lib 
+Requires: 

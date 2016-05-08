@@ -1,0 +1,11 @@
+-I/usr/include/qt4
+-I/usr/include/qt4/QtGui
+-I/usr/include/qt4/QtCore
+-DROS_PACKAGE_NAME="rqt_image_view"
+-DROSCONSOLE_BACKEND_LOG4CXX
+-D$<$<NOT:$<CONFIG:Debug>>:QT_NO_DEBUG>
+-DQT_GUI_LIB
+-DQT_CORE_LIB
+-o
+/opt/ros_catkin_ws/build_isolated/rqt_image_view/include/rqt_image_view/moc_image_view.cxx
+/opt/ros_catkin_ws/src/rqt_common_plugins/rqt_image_view/include/rqt_image_view/image_view.h

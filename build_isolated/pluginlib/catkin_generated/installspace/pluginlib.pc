@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/install_isolated
+
+Name: pluginlib
+Description: Description of pluginlib
+Version: 1.10.2
+Cflags: -I/opt/ros_catkin_ws/install_isolated/include -I/usr/include
+Libs: -L/opt/ros_catkin_ws/install_isolated/lib -l:/usr/lib/arm-linux-gnueabihf/libboost_filesystem.so -l:/usr/lib/arm-linux-gnueabihf/libboost_system.so -l:/usr/lib/arm-linux-gnueabihf/libtinyxml.so
+Requires: class_loader rosconsole roslib

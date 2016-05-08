@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/convex_decomposition
+
+Name: convex_decomposition
+Description: Description of convex_decomposition
+Version: 0.1.10
+Cflags: 
+Libs: -L/opt/ros_catkin_ws/devel_isolated/convex_decomposition/lib 
+Requires: 

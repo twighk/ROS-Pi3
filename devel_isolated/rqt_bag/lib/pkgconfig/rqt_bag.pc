@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/rqt_bag
+
+Name: rqt_bag
+Description: Description of rqt_bag
+Version: 0.3.13
+Cflags: 
+Libs: -L/opt/ros_catkin_ws/devel_isolated/rqt_bag/lib 
+Requires: 

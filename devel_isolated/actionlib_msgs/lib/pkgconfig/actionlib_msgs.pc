@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/actionlib_msgs
+
+Name: actionlib_msgs
+Description: Description of actionlib_msgs
+Version: 1.12.4
+Cflags: -I/opt/ros_catkin_ws/devel_isolated/actionlib_msgs/include
+Libs: -L/opt/ros_catkin_ws/devel_isolated/actionlib_msgs/lib 
+Requires: message_runtime std_msgs

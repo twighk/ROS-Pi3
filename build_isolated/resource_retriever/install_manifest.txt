@@ -1,0 +1,12 @@
+/opt/ros_catkin_ws/install_isolated/_setup_util.py
+/opt/ros_catkin_ws/install_isolated/env.sh
+/opt/ros_catkin_ws/install_isolated/setup.bash
+/opt/ros_catkin_ws/install_isolated/setup.sh
+/opt/ros_catkin_ws/install_isolated/setup.zsh
+/opt/ros_catkin_ws/install_isolated/.rosinstall
+/opt/ros_catkin_ws/install_isolated/lib/pkgconfig/resource_retriever.pc
+/opt/ros_catkin_ws/install_isolated/share/resource_retriever/cmake/resource_retrieverConfig.cmake
+/opt/ros_catkin_ws/install_isolated/share/resource_retriever/cmake/resource_retrieverConfig-version.cmake
+/opt/ros_catkin_ws/install_isolated/share/resource_retriever/package.xml
+/opt/ros_catkin_ws/install_isolated/lib/libresource_retriever.so
+/opt/ros_catkin_ws/install_isolated/include/resource_retriever/retriever.h

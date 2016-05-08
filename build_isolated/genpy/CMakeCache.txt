@@ -258,6 +258,8 @@ genmsg_DIR:PATH=/opt/ros_catkin_ws/install_isolated/share/genmsg/cmake
 //Value Computed by CMake
 genpy_BINARY_DIR:STATIC=/opt/ros_catkin_ws/build_isolated/genpy
 
+genpy_DIR:PATH=
+
 //Value Computed by CMake
 genpy_SOURCE_DIR:STATIC=/opt/ros_catkin_ws/src/genpy
 

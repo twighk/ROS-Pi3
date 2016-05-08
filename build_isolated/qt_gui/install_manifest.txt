@@ -1,0 +1,13 @@
+/opt/ros_catkin_ws/install_isolated/_setup_util.py
+/opt/ros_catkin_ws/install_isolated/env.sh
+/opt/ros_catkin_ws/install_isolated/setup.bash
+/opt/ros_catkin_ws/install_isolated/setup.sh
+/opt/ros_catkin_ws/install_isolated/setup.zsh
+/opt/ros_catkin_ws/install_isolated/.rosinstall
+/opt/ros_catkin_ws/install_isolated/lib/pkgconfig/qt_gui.pc
+/opt/ros_catkin_ws/install_isolated/share/qt_gui/cmake/qt_guiConfig.cmake
+/opt/ros_catkin_ws/install_isolated/share/qt_gui/cmake/qt_guiConfig-version.cmake
+/opt/ros_catkin_ws/install_isolated/share/qt_gui/package.xml
+/opt/ros_catkin_ws/install_isolated/share/qt_gui/resource/ros_org_vertical.png
+/opt/ros_catkin_ws/install_isolated/share/qt_gui/resource/dock_widget_title_bar.ui
+/opt/ros_catkin_ws/install_isolated/share/qt_gui/resource/perspective_create.ui

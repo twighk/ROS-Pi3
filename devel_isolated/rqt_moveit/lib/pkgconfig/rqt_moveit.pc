@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/rqt_moveit
+
+Name: rqt_moveit
+Description: Description of rqt_moveit
+Version: 0.4.3
+Cflags: 
+Libs: -L/opt/ros_catkin_ws/devel_isolated/rqt_moveit/lib 
+Requires: 

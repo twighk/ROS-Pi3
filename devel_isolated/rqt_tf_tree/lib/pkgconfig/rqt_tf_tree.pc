@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/rqt_tf_tree
+
+Name: rqt_tf_tree
+Description: Description of rqt_tf_tree
+Version: 0.4.3
+Cflags: 
+Libs: -L/opt/ros_catkin_ws/devel_isolated/rqt_tf_tree/lib 
+Requires: 

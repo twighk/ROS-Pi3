@@ -1,0 +1,15 @@
+/opt/ros_catkin_ws/install_isolated/_setup_util.py
+/opt/ros_catkin_ws/install_isolated/env.sh
+/opt/ros_catkin_ws/install_isolated/setup.bash
+/opt/ros_catkin_ws/install_isolated/setup.sh
+/opt/ros_catkin_ws/install_isolated/setup.zsh
+/opt/ros_catkin_ws/install_isolated/.rosinstall
+/opt/ros_catkin_ws/install_isolated/lib/pkgconfig/cv_bridge.pc
+/opt/ros_catkin_ws/install_isolated/share/cv_bridge/cmake/cv_bridgeConfig.cmake
+/opt/ros_catkin_ws/install_isolated/share/cv_bridge/cmake/cv_bridgeConfig-version.cmake
+/opt/ros_catkin_ws/install_isolated/share/cv_bridge/package.xml
+/opt/ros_catkin_ws/install_isolated/include/cv_bridge/cv_bridge.h
+/opt/ros_catkin_ws/install_isolated/include/cv_bridge/rgb_colors.h
+/opt/ros_catkin_ws/install_isolated/lib/python2.7/dist-packages/cv_bridge/boost/__init__.py
+/opt/ros_catkin_ws/install_isolated/lib/libcv_bridge.so
+/opt/ros_catkin_ws/install_isolated/lib/python2.7/dist-packages/cv_bridge/boost/cv_bridge_boost.so

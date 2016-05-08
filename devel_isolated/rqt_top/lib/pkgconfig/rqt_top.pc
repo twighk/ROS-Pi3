@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/rqt_top
+
+Name: rqt_top
+Description: Description of rqt_top
+Version: 0.3.13
+Cflags: 
+Libs: -L/opt/ros_catkin_ws/devel_isolated/rqt_top/lib 
+Requires: 

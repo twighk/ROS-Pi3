@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/rqt_service_caller
+
+Name: rqt_service_caller
+Description: Description of rqt_service_caller
+Version: 0.3.13
+Cflags: 
+Libs: -L/opt/ros_catkin_ws/devel_isolated/rqt_service_caller/lib 
+Requires: 

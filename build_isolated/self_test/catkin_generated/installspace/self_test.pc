@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/install_isolated
+
+Name: self_test
+Description: Description of self_test
+Version: 1.8.9
+Cflags: -I/opt/ros_catkin_ws/install_isolated/include
+Libs: -L/opt/ros_catkin_ws/install_isolated/lib 
+Requires: diagnostic_msgs diagnostic_updater roscpp

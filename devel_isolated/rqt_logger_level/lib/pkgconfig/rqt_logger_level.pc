@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/rqt_logger_level
+
+Name: rqt_logger_level
+Description: Description of rqt_logger_level
+Version: 0.3.13
+Cflags: 
+Libs: -L/opt/ros_catkin_ws/devel_isolated/rqt_logger_level/lib 
+Requires: 

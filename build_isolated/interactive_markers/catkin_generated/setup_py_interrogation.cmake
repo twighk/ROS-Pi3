@@ -1,0 +1,6 @@
+set(interactive_markers_SETUP_PY_VERSION "1.11.1")
+set(interactive_markers_SETUP_PY_SCRIPTS "")
+set(interactive_markers_SETUP_PY_PACKAGES "interactive_markers")
+set(interactive_markers_SETUP_PY_PACKAGE_DIRS "src/interactive_markers")
+set(interactive_markers_SETUP_PY_MODULES "")
+set(interactive_markers_SETUP_PY_MODULE_DIRS "")

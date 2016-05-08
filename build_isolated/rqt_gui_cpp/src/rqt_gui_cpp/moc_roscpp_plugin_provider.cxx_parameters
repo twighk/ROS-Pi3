@@ -1,0 +1,14 @@
+-I/opt/ros_catkin_ws/src/rqt/rqt_gui_cpp/include
+-I/opt/ros_catkin_ws/install_isolated/include
+-I/usr/include
+-I/usr/include/qt4
+-I/usr/include/qt4/QtGui
+-I/usr/include/qt4/QtCore
+-DROS_PACKAGE_NAME="rqt_gui_cpp"
+-DROSCONSOLE_BACKEND_LOG4CXX
+-D$<$<NOT:$<CONFIG:Debug>>:QT_NO_DEBUG>
+-DQT_GUI_LIB
+-DQT_CORE_LIB
+-o
+/opt/ros_catkin_ws/build_isolated/rqt_gui_cpp/src/rqt_gui_cpp/moc_roscpp_plugin_provider.cxx
+/opt/ros_catkin_ws/src/rqt/rqt_gui_cpp/src/rqt_gui_cpp/roscpp_plugin_provider.h

@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/smach_ros
+
+Name: smach_ros
+Description: Description of smach_ros
+Version: 2.0.0
+Cflags: 
+Libs: -L/opt/ros_catkin_ws/devel_isolated/smach_ros/lib 
+Requires: rospy rostopic std_msgs std_srvs actionlib actionlib_msgs smach smach_msgs

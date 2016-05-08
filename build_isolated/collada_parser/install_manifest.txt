@@ -1,0 +1,15 @@
+/opt/ros_catkin_ws/install_isolated/_setup_util.py
+/opt/ros_catkin_ws/install_isolated/env.sh
+/opt/ros_catkin_ws/install_isolated/setup.bash
+/opt/ros_catkin_ws/install_isolated/setup.sh
+/opt/ros_catkin_ws/install_isolated/setup.zsh
+/opt/ros_catkin_ws/install_isolated/.rosinstall
+/opt/ros_catkin_ws/install_isolated/lib/pkgconfig/collada_parser.pc
+/opt/ros_catkin_ws/install_isolated/share/collada_parser/cmake/collada_parserConfig.cmake
+/opt/ros_catkin_ws/install_isolated/share/collada_parser/cmake/collada_parserConfig-version.cmake
+/opt/ros_catkin_ws/install_isolated/share/collada_parser/package.xml
+/opt/ros_catkin_ws/install_isolated/lib/libcollada_parser.so
+/opt/ros_catkin_ws/install_isolated/lib/libcollada_parser_plugin.so
+/opt/ros_catkin_ws/install_isolated/include/collada_parser/collada_parser.h
+/opt/ros_catkin_ws/install_isolated/include/collada_parser/collada_parser_plugin.h
+/opt/ros_catkin_ws/install_isolated/share/collada_parser/collada_parser_plugin_description.xml

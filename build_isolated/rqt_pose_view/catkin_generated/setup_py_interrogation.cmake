@@ -1,0 +1,6 @@
+set(rqt_pose_view_SETUP_PY_VERSION "0.4.3")
+set(rqt_pose_view_SETUP_PY_SCRIPTS "")
+set(rqt_pose_view_SETUP_PY_PACKAGES "rqt_pose_view")
+set(rqt_pose_view_SETUP_PY_PACKAGE_DIRS "src/rqt_pose_view")
+set(rqt_pose_view_SETUP_PY_MODULES "")
+set(rqt_pose_view_SETUP_PY_MODULE_DIRS "")

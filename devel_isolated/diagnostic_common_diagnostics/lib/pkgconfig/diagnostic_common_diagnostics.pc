@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/diagnostic_common_diagnostics
+
+Name: diagnostic_common_diagnostics
+Description: Description of diagnostic_common_diagnostics
+Version: 1.8.9
+Cflags: 
+Libs: -L/opt/ros_catkin_ws/devel_isolated/diagnostic_common_diagnostics/lib 
+Requires: 

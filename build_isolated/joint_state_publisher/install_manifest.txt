@@ -1,0 +1,11 @@
+/opt/ros_catkin_ws/install_isolated/_setup_util.py
+/opt/ros_catkin_ws/install_isolated/env.sh
+/opt/ros_catkin_ws/install_isolated/setup.bash
+/opt/ros_catkin_ws/install_isolated/setup.sh
+/opt/ros_catkin_ws/install_isolated/setup.zsh
+/opt/ros_catkin_ws/install_isolated/.rosinstall
+/opt/ros_catkin_ws/install_isolated/lib/pkgconfig/joint_state_publisher.pc
+/opt/ros_catkin_ws/install_isolated/share/joint_state_publisher/cmake/joint_state_publisherConfig.cmake
+/opt/ros_catkin_ws/install_isolated/share/joint_state_publisher/cmake/joint_state_publisherConfig-version.cmake
+/opt/ros_catkin_ws/install_isolated/share/joint_state_publisher/package.xml
+/opt/ros_catkin_ws/install_isolated/lib/joint_state_publisher/joint_state_publisher

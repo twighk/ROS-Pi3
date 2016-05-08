@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/opt/ros_catkin_ws/src/random_numbers/include/random_numbers/random_numbers.h
+boost/random/mersenne_twister.hpp
+-
+boost/random/uniform_real.hpp
+-
+boost/random/uniform_int.hpp
+-
+boost/random/variate_generator.hpp
+-
+boost/random/normal_distribution.hpp
+-
+
+/opt/ros_catkin_ws/src/random_numbers/src/random_numbers.cpp
+random_numbers/random_numbers.h
+/opt/ros_catkin_ws/src/random_numbers/src/random_numbers/random_numbers.h
+boost/random/lagged_fibonacci.hpp
+-
+boost/random/uniform_int.hpp
+-
+boost/thread/mutex.hpp
+-
+boost/date_time/posix_time/posix_time.hpp
+-
+boost/math/constants/constants.hpp
+-
+boost/scoped_ptr.hpp
+-
+

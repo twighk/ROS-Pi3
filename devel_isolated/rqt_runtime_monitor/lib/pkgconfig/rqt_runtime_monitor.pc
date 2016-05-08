@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/rqt_runtime_monitor
+
+Name: rqt_runtime_monitor
+Description: Description of rqt_runtime_monitor
+Version: 0.4.3
+Cflags: 
+Libs: -L/opt/ros_catkin_ws/devel_isolated/rqt_runtime_monitor/lib 
+Requires: 

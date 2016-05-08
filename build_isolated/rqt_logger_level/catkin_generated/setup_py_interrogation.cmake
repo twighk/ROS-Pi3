@@ -1,0 +1,6 @@
+set(rqt_logger_level_SETUP_PY_VERSION "0.3.13")
+set(rqt_logger_level_SETUP_PY_SCRIPTS "scripts/rqt_logger_level")
+set(rqt_logger_level_SETUP_PY_PACKAGES "rqt_logger_level")
+set(rqt_logger_level_SETUP_PY_PACKAGE_DIRS "src/rqt_logger_level")
+set(rqt_logger_level_SETUP_PY_MODULES "")
+set(rqt_logger_level_SETUP_PY_MODULE_DIRS "")

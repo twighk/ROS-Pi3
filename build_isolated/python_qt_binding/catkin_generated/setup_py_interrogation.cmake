@@ -1,0 +1,6 @@
+set(python_qt_binding_SETUP_PY_VERSION "0.2.19")
+set(python_qt_binding_SETUP_PY_SCRIPTS "")
+set(python_qt_binding_SETUP_PY_PACKAGES "python_qt_binding")
+set(python_qt_binding_SETUP_PY_PACKAGE_DIRS "src/python_qt_binding")
+set(python_qt_binding_SETUP_PY_MODULES "")
+set(python_qt_binding_SETUP_PY_MODULE_DIRS "")

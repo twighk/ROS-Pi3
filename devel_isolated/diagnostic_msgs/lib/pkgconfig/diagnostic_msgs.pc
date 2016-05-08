@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/diagnostic_msgs
+
+Name: diagnostic_msgs
+Description: Description of diagnostic_msgs
+Version: 1.12.4
+Cflags: -I/opt/ros_catkin_ws/devel_isolated/diagnostic_msgs/include
+Libs: -L/opt/ros_catkin_ws/devel_isolated/diagnostic_msgs/lib 
+Requires: message_runtime std_msgs

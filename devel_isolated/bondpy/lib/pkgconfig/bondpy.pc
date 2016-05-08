@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/bondpy
+
+Name: bondpy
+Description: Description of bondpy
+Version: 1.7.16
+Cflags: 
+Libs: -L/opt/ros_catkin_ws/devel_isolated/bondpy/lib 
+Requires: 

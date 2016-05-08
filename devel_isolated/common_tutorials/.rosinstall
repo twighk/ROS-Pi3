@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /opt/ros_catkin_ws/devel_isolated/common_tutorials/setup.sh

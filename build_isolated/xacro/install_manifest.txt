@@ -1,0 +1,13 @@
+/opt/ros_catkin_ws/install_isolated/_setup_util.py
+/opt/ros_catkin_ws/install_isolated/env.sh
+/opt/ros_catkin_ws/install_isolated/setup.bash
+/opt/ros_catkin_ws/install_isolated/setup.sh
+/opt/ros_catkin_ws/install_isolated/setup.zsh
+/opt/ros_catkin_ws/install_isolated/.rosinstall
+/opt/ros_catkin_ws/install_isolated/lib/pkgconfig/xacro.pc
+/opt/ros_catkin_ws/install_isolated/share/xacro/cmake/xacro-extras.cmake
+/opt/ros_catkin_ws/install_isolated/share/xacro/cmake/xacroConfig.cmake
+/opt/ros_catkin_ws/install_isolated/share/xacro/cmake/xacroConfig-version.cmake
+/opt/ros_catkin_ws/install_isolated/share/xacro/package.xml
+/opt/ros_catkin_ws/install_isolated/lib/xacro/xacro
+/opt/ros_catkin_ws/install_isolated/share/xacro/xacro.py

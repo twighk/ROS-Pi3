@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/rosbag_migration_rule
+
+Name: rosbag_migration_rule
+Description: Description of rosbag_migration_rule
+Version: 1.0.0
+Cflags: 
+Libs: -L/opt/ros_catkin_ws/devel_isolated/rosbag_migration_rule/lib 
+Requires: 

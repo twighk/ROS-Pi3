@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/urdf
+
+Name: urdf
+Description: Description of urdf
+Version: 1.11.10
+Cflags: -I/opt/ros_catkin_ws/src/robot_model/urdf/include -I/usr/include
+Libs: -L/opt/ros_catkin_ws/devel_isolated/urdf/lib -lurdf -l:/usr/lib/arm-linux-gnueabihf/liburdfdom_sensor.so -l:/usr/lib/arm-linux-gnueabihf/liburdfdom_model_state.so -l:/usr/lib/arm-linux-gnueabihf/liburdfdom_model.so -l:/usr/lib/arm-linux-gnueabihf/liburdfdom_world.so -l:/usr/lib/arm-linux-gnueabihf/libconsole_bridge.so -l:/usr/lib/arm-linux-gnueabihf/libboost_thread.so -l:/usr/lib/arm-linux-gnueabihf/libboost_chrono.so -l:/usr/lib/arm-linux-gnueabihf/libboost_system.so -l:/usr/lib/arm-linux-gnueabihf/libboost_date_time.so -l:/usr/lib/arm-linux-gnueabihf/libboost_atomic.so -l:/usr/lib/arm-linux-gnueabihf/libpthread.so
+Requires: rosconsole_bridge roscpp

@@ -1,0 +1,8 @@
+prefix=/opt/ros_catkin_ws/devel_isolated/geometric_shapes
+
+Name: geometric_shapes
+Description: Description of geometric_shapes
+Version: 0.4.4
+Cflags: -I/opt/ros_catkin_ws/src/geometric_shapes/include -I/opt/ros_catkin_ws/install_isolated/include -I/usr/include/eigen3 -I/usr/include
+Libs: -L/opt/ros_catkin_ws/devel_isolated/geometric_shapes/lib -lgeometric_shapes -l:/opt/ros_catkin_ws/install_isolated/lib/liboctomap.so -l:/opt/ros_catkin_ws/install_isolated/lib/liboctomath.so -l:/usr/lib/arm-linux-gnueabihf/libconsole_bridge.so
+Requires: shape_msgs random_numbers eigen_stl_containers visualization_msgs

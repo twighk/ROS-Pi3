@@ -1,0 +1,9 @@
+# CMake generated Testfile for 
+# Source directory: /opt/ros_catkin_ws/src/diagnostics/diagnostic_updater
+# Build directory: /opt/ros_catkin_ws/build_isolated/diagnostic_updater
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+add_test(_ctest_diagnostic_updater_rostest_test_diagnostic_updater_test.xml "/opt/ros_catkin_ws/build_isolated/diagnostic_updater/catkin_generated/env_cached.sh" "/usr/bin/python" "/opt/ros_catkin_ws/install_isolated/share/catkin/cmake/test/run_tests.py" "/opt/ros_catkin_ws/build_isolated/diagnostic_updater/test_results/diagnostic_updater/rostest-test_diagnostic_updater_test.xml" "--return-code" "/opt/ros_catkin_ws/install_isolated/share/rostest/cmake/../../../bin/rostest --pkgdir=/opt/ros_catkin_ws/src/diagnostics/diagnostic_updater --package=diagnostic_updater --results-filename test_diagnostic_updater_test.xml --results-base-dir \"/opt/ros_catkin_ws/build_isolated/diagnostic_updater/test_results\" /opt/ros_catkin_ws/src/diagnostics/diagnostic_updater/test/diagnostic_updater_test.xml ")
+add_test(_ctest_diagnostic_updater_rostest_test_diagnostic_updater_fast_test.xml "/opt/ros_catkin_ws/build_isolated/diagnostic_updater/catkin_generated/env_cached.sh" "/usr/bin/python" "/opt/ros_catkin_ws/install_isolated/share/catkin/cmake/test/run_tests.py" "/opt/ros_catkin_ws/build_isolated/diagnostic_updater/test_results/diagnostic_updater/rostest-test_diagnostic_updater_fast_test.xml" "--return-code" "/opt/ros_catkin_ws/install_isolated/share/rostest/cmake/../../../bin/rostest --pkgdir=/opt/ros_catkin_ws/src/diagnostics/diagnostic_updater --package=diagnostic_updater --results-filename test_diagnostic_updater_fast_test.xml --results-base-dir \"/opt/ros_catkin_ws/build_isolated/diagnostic_updater/test_results\" /opt/ros_catkin_ws/src/diagnostics/diagnostic_updater/test/diagnostic_updater_fast_test.xml ")
+subdirs(gtest)
